@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FAQs-Frontend-Page/static/css/main.487c9787.css",
+    "main.js": "/FAQs-Frontend-Page/static/js/main.d7c93ebc.js",
+    "static/js/787.7c63c7bb.chunk.js": "/FAQs-Frontend-Page/static/js/787.7c63c7bb.chunk.js",
+    "static/media/WorkSans-Italic-VariableFont_wght.ttf": "/FAQs-Frontend-Page/static/media/WorkSans-Italic-VariableFont_wght.909e4faac8822880e462.ttf",
+    "static/media/background-pattern-desktop.svg": "/FAQs-Frontend-Page/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/FAQs-Frontend-Page/index.html",
+    "static/media/icon-star.svg": "/FAQs-Frontend-Page/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/FAQs-Frontend-Page/static/media/icon-plus.6c5381bcc9a768ea5c36.svg",
+    "static/media/icon-minus.svg": "/FAQs-Frontend-Page/static/media/icon-minus.5575b6de09a1e0deab1d.svg",
+    "main.487c9787.css.map": "/FAQs-Frontend-Page/static/css/main.487c9787.css.map",
+    "main.d7c93ebc.js.map": "/FAQs-Frontend-Page/static/js/main.d7c93ebc.js.map",
+    "787.7c63c7bb.chunk.js.map": "/FAQs-Frontend-Page/static/js/787.7c63c7bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487c9787.css",
+    "static/js/main.d7c93ebc.js"
+  ]
+}
