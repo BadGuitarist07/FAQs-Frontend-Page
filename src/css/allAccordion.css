@@ -1,0 +1,35 @@
+:root {
+    --color-title: hsl(292, 42%, 14%);
+    --grayish-purple: hsl(292, 16%, 49%);
+    --bg-body: hsl(0, 0%, 100%);
+    --light-pink: hsl(275, 100%, 97%);
+}
+
+@font-face {
+    font-family: 'Work Sans', sans-serif;
+    src: url(../assets/fonts/WorkSans-Italic-VariableFont_wght.ttf) format('truetype');
+}
+
+
+.allAccordion { 
+    border-radius: 24px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    background-color: var(--bg-body);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 12px 40px rgba(0, 0, 0, 0.25);
+}
+
+
+.accordionTitle h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    color: var(--color-title);
+}
+
+.titleItems {
+    color: var(--color-title);
+    font-weight: 600;
+    margin: 0;
+    width: 75%;
+}
